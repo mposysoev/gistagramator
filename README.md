@@ -1,4 +1,4 @@
-# Gistagramator
+# Gistogramator
 
 Simple tool for making histograms written in Python. Accepts data in the format:
 
