@@ -19,10 +19,10 @@ Dependencies: numpy, matplotlib.
 ## Usage
 
 ```console
-python3 gistagramator
+python3 gistogramator
 
 USAGE:
-    python3 gistagramator <type> <bins> <file_name> 
+    python3 gistogramator <type> <bins> <file_name> 
     <type>: hist or scatter
     <bins>: int number
     <file_name>: file name
